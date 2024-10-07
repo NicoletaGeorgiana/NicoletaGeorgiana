@@ -1,0 +1,79 @@
+{
+	"lista": {
+		"id": [
+			"789",
+			"148",
+			"521",
+			"965",
+			"7"
+		],
+		"nume": [
+			"Popescu Andreea",
+			"Danciu Daniel",
+			"Stamate Ioana",
+			"Vasile Ecaterina",
+			"Matache Delia"
+		],
+		"oras": [
+			"Bucuresti",
+			"Alba Iulia",
+			"Bucuresti",
+			"Galati",
+			"Sibiu"
+		],
+		"adresa": [
+			{
+				"strada": "Gura Siriului",
+				"casa": "345",
+				"numarulapartamentului": "43"
+			},
+			{
+				"strada": "Strada Parcului",
+				"casa": "256",
+				"numarulapartamentului": "5"
+			},
+			{
+				"strada": "Eufrosina Popescu",
+				"casa": "5",
+				"numarulapartamentului": "4"
+			},
+			{
+				"strada": "Brailei",
+				"casa": "24",
+				"numarulapartamentului": "78"
+			},
+			{
+				"strada": "Mihai Eminescu",
+				"casas": "205",
+				"numarulapartamentului": "7"
+			}
+		],
+		"datedecontact": [
+			{
+				"numeredetelefon": "0764207732",
+				"email": "andreeapopescu85@yahoo.com",
+				"skipe": "AndreeaPopescu"
+			},
+			{
+				"numeredetelefon": "0745804732",
+				"email": "danciudaniel1@yahoo.com",
+				"skipe": "Danciu daniel"
+			},
+			{
+				"numeredetelefon": "0754861279",
+				"email": "stamateioana@gmail.com",
+				"skipe": "Stamate Ioana"
+			},
+			{
+				"numeredetelefon": "0778641254",
+				"email": "vasileecaterina72@yahoo.com",
+				"skipe": "VasileEcaterina"
+			},
+			{
+				"numeredetelefon": "077541649",
+				"email": "deliamatache44@yahoo.com",
+				"skipe": "DeliaMatache"
+			}
+		]
+	}
+}

@@ -1,0 +1,67 @@
+<lista>
+    <id>789</id>
+    <nume>Popescu Andreea</nume>
+    <oras>Bucuresti</oras>
+    <adresa>
+          <strada> Gura Siriului</strada>
+          <casa>345</casa>
+          <numarulapartamentului>43</numarulapartamentului>
+    </adresa>
+    <datedecontact>
+        <numeredetelefon>0764207732</numeredetelefon>
+        <email>andreeapopescu85@yahoo.com</email>
+        <skipe>AndreeaPopescu</skipe>
+    </datedecontact>
+    <id>148</id>
+    <nume>Danciu Daniel</nume>
+    <oras>Alba Iulia</oras>
+    <adresa>
+          <strada> Strada Parcului</strada>
+          <casa>256</casa>
+          <numarulapartamentului>5</numarulapartamentului>
+    </adresa>
+    <datedecontact>
+        <numeredetelefon>0745804732</numeredetelefon>
+        <email>danciudaniel1@yahoo.com</email>
+        <skipe>Danciu daniel</skipe>
+    </datedecontact>
+    <id>521</id>
+    <nume>Stamate Ioana</nume>
+    <oras>Bucuresti</oras>
+    <adresa>
+          <strada>Eufrosina Popescu</strada>
+          <casa>5</casa>
+          <numarulapartamentului>4</numarulapartamentului>
+    </adresa>
+    <datedecontact>
+        <numeredetelefon>0754861279</numeredetelefon>
+        <email>stamateioana@gmail.com</email>
+        <skipe>Stamate Ioana</skipe>
+    </datedecontact>
+    <id>965</id>
+    <nume>Vasile Ecaterina</nume>
+    <oras>Galati</oras>
+    <adresa>
+          <strada> Brailei</strada>
+          <casa>24</casa>
+          <numarulapartamentului>78</numarulapartamentului>
+    </adresa>
+    <datedecontact>
+        <numeredetelefon>0778641254</numeredetelefon>
+        <email>vasileecaterina72@yahoo.com</email>
+        <skipe>VasileEcaterina</skipe>
+    </datedecontact>
+    <id>7</id>
+    <nume>Matache Delia</nume>
+    <oras>Sibiu</oras>
+    <adresa>
+          <strada>Mihai Eminescu </strada>
+          <casas>205</casas>
+          <numarulapartamentului>7</numarulapartamentului>
+    </adresa>
+    <datedecontact>
+        <numeredetelefon>077541649</numeredetelefon>
+        <email>deliamatache44@yahoo.com</email>
+        <skipe>DeliaMatache</skipe>
+    </datedecontact>
+</lista>
